@@ -3,7 +3,7 @@ import { useContext } from 'react';
 
 import Button from '../Buttons/Button';
 import PlayPauseButton from '../Buttons/PlayPauseButton';
-import { TimerContext } from './../../contexts/TimerContext';
+import { TimerContext } from '@contexts/TimerContext';
 
 export default function TimerButtons() {
   const { startTimer, stopTimer, resetTimer, isTimer, hasStarted } = useContext(TimerContext);
