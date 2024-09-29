@@ -1,6 +1,6 @@
 # Cronômetro com React Native
 
-Esse aplicativo é um cronômetro com design simples e intuitivo, desenvolvido especialmente para Android. Foi realizado para a matéria de Desenvolvimento Mobile do curso técnico da ETEC de Guarulhos, 2º módulo.
+Este aplicativo é um cronômetro com design simples e intuitivo, desenvolvido especialmente para Android. Ele foi criado como parte da avaliação da disciplina de Desenvolvimento Mobile do curso técnico da ETEC de Guarulhos, no 2º módulo.
 
 ## Screenshots
 
