@@ -4,9 +4,7 @@ import Metrics from '@utils/Metrics';
 
 export default function Title({ title }) {
   return (
-    <SafeAreaView>
       <Text style={styles.title}> {title} </Text>
-    </SafeAreaView>
   );
 }
 
@@ -19,7 +17,7 @@ const styles = StyleSheet.create({
     margin: '2%',
     color: '#16423C',
     fontWeight: 'bold',
-    fontSize: Metrics.screenWidth * 0.125,
+    fontSize: Metrics.screenWidth * 0.135,
     textAlign: 'center',
   },
 });
