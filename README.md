@@ -4,7 +4,7 @@ Este aplicativo é um cronômetro com design simples e intuitivo, desenvolvido e
 
 ## Screenshots
 
-<img src="src/assets/screenshot.jpeg" alt="Screenshot da calculadora" width="300" />
+<img src="src/assets/screenshot.jpeg" alt="Screenshot da calculadora" width="250" />
 
 ## Funcionalidades
 
