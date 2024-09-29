@@ -17,6 +17,13 @@ Este aplicativo é um cronômetro com design simples e intuitivo, desenvolvido e
 - **React Native:** Framework para construção de aplicativos móveis.
 - **Expo:** Ferramenta para desenvolvimento rápido de aplicativos React Native.
 
+## Pré-requisitos
+
+Antes de instalar, certifique-se de que você tem os seguintes pré-requisitos:
+
+- **Node.js:** Versão 14 ou superior instalada em seu sistema.
+- **Expo Go:** O aplicativo Expo Go deve estar instalado em seu dispositivo Android **ou** você pode usar o **Android Studio** para emular o aplicativo.
+
 ## Como Instalar
 
 1. Clone o repositório:
