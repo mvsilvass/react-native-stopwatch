@@ -1,18 +1,27 @@
-import { StyleSheet, Text, View } from 'react-native';
+import { SafeAreaView, StyleSheet } from 'react-native';
+
+import { TimerProvider } from '@contexts/TimerContext';
+
+import Title from '@components/Title/Title';
+import TimerContainer from '@components/Timer/TimerContainer';
 
 export default function App() {
   return (
-    <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-    </View>
+    <TimerProvider>
+      <SafeAreaView style={styles.appContainer}>
+        <Title title={'Cronômetro'} />
+        <TimerContainer />
+      </SafeAreaView>
+    </TimerProvider>
   );
 }
 
 const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
+  appContainer: {
+    backgroundColor: '#E9EFEC',
+    height: '100%',
+    width: '100%',
+    alignContent: 'center',
     justifyContent: 'center',
   },
 });
