@@ -46,3 +46,7 @@ Antes de instalar, certifique-se de que você tem os seguintes pré-requisitos:
 
    - Se estiver com seu Android em mãos, com o aplicativo Expo Go, escaneie o código QR que aparece no terminal.
    - Se estiver usando um emulador, você pode selecionar a opção Android correspondente para iniciar o aplicativo no emulador.
+
+## Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE). Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
