@@ -2,4 +2,5 @@
 
 ## Screenshots
 
-![Screenshot do cronômetro](src/assets/screenshot.jpeg)
+<img src="./assets/calculadora-print.png" alt="Screenshot da calculadora" width="300" />
+
