@@ -1,5 +1,6 @@
 import { Text, SafeAreaView, StyleSheet } from 'react-native';
 import PropTypes from 'prop-types';
+import Metrics from '@utils/Metrics';
 
 export default function Title({ title }) {
   return (
@@ -18,7 +19,7 @@ const styles = StyleSheet.create({
     margin: '2%',
     color: '#16423C',
     fontWeight: 'bold',
-    fontSize: 60,
+    fontSize: Metrics.screenWidth * 0.125,
     textAlign: 'center',
   },
 });
