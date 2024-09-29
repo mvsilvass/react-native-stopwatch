@@ -21,11 +21,11 @@ Este aplicativo é um cronômetro com design simples e intuitivo, desenvolvido e
 
 1. Clone o repositório:
     ```bash
-    git clone <URL do repositório>
+    git clone https://github.com/mvsilvass/react-native-stopwatch
     ```
 2. Navegue até o diretório do projeto:
     ```bash
-    cd <diretório do projeto>
+    cd react-native-stopwatch
     ```
 3. Instale as dependências:
     ```bash
