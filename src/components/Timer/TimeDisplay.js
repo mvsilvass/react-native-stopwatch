@@ -1,8 +1,7 @@
 import { Text, SafeAreaView, StyleSheet } from 'react-native';
-
-import { TimerContext } from './../../contexts/TimerContext';
-
 import { useContext } from 'react';
+import { TimerContext } from '@contexts/TimerContext';
+import Metrics from '@utils/Metrics';
 
 export default function TimeDisplay() {
   const { timer } = useContext(TimerContext);
@@ -32,7 +31,7 @@ const styles = StyleSheet.create({
   time: {
     textAlign: 'center',
     padding: '10%',
-    fontSize: 60,
+    fontSize: Metrics.screenWidth * 0.125,
     color: '#FFF',
   },
 });
