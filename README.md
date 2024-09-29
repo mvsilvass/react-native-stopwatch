@@ -2,4 +2,4 @@
 
 ## Screenshots
 
-![Screenshot do cronômetro](./assets/screenshot.jpeg)
+![Screenshot do cronômetro](./scr/assets/screenshot.jpeg)
