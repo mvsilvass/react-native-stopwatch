@@ -2,5 +2,5 @@
 
 ## Screenshots
 
-<img src="./assets/calculadora-print.png" alt="Screenshot da calculadora" width="300" />
+<img src="src/assets/screenshot.jpeg" alt="Screenshot da calculadora" width="300" />
 
